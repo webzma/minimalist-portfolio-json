@@ -184,24 +184,31 @@
   "projects": [
     {
       "name": "Countries App",
-      "isActive": true,
+      "isActive": false,
       "description": "App que te muestra información relevante de todos los países del mundo.",
       "highlights": ["Información de países", "Terminado"],
       "url": "https://webzma.github.io/countries-app/"
     },
     {
       "name": "Tic Tac Teo (La vieja)",
-      "isActive": true,
+      "isActive": false,
       "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
       "highlights": ["Videojuego", "Juega con tus amigos", "ReactJS"],
       "url": "https://webzma.github.io/tic-tac-toe/"
     },
     {
       "name": "App de Tareas",
-      "isActive": true,
+      "isActive": false,
       "description": "Una hermosa app para registrar las tareas cotidianas.",
       "highlights": ["React", "Control de información", "LocalStorage"],
       "url": "https://webzma.github.io/todo-app/"
+    },
+    {
+      "name": "Mi portafolio",
+      "isActive": false,
+      "description": "Visita mi portafolio web",
+      "highlights": ["React", "Astro", "Portafolio"],
+      "url": "https://webzma-dev.vercel.app/"
     }
   ]
 }
